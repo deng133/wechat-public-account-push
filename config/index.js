@@ -43,7 +43,7 @@ export const config = {
     // 所在省份
     PROVINCE: "四川",
     // 所在城市
-    CITY: "资阳市乐至县",
+    CITY: "乐至县",
 
     /** 重要节日相关 */
 
@@ -83,7 +83,6 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们结婚的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
